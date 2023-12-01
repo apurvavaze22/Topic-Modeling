@@ -1,5 +1,5 @@
 # Topic-Modeling
-Topic modeling on the text written in the "About" information of LinkedIn profile
+Topic modeling on the text within the "About" section of LinkedIn profiles.
 
 In the fast-paced world of professional networking, where first impressions matter, our LinkedIn profile is our digital business card. Among its various sections, the "About" information is a crucial space where we can showcase our professional identity and leave a lasting impression on potential connections. One powerful technique to enhance the effectiveness of our LinkedIn "About" section is topic modeling, a method in natural language processing that uncovers hidden thematic structures within a text. By employing algorithms to analyze content and identify recurring themes or topics, topic modeling not only organizes information but also boosts the discoverability of key skills, experiences, and interests.
 
